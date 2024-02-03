@@ -79,8 +79,7 @@ dependencies {
     /**
      * Glide and Picasso for image loading
      */
-    implementation ("com.github.bumptech.glide:glide:4.13.2")
-    annotationProcessor ("com.github.bumptech.glide:compiler:4.13.2")
+    implementation ("com.github.bumptech.glide:compose:1.0.0-beta01")
     /**
      * Coil
      */
