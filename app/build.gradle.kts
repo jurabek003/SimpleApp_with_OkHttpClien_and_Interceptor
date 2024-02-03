@@ -76,5 +76,14 @@ dependencies {
      */
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
     implementation("com.squareup.okhttp3:logging-interceptor:5.0.0-alpha.2")
+    /**
+     * Glide and Picasso for image loading
+     */
+    implementation ("com.github.bumptech.glide:glide:4.13.2")
+    annotationProcessor ("com.github.bumptech.glide:compiler:4.13.2")
+    /**
+     * Coil
+     */
+    implementation("io.coil-kt:coil-compose:1.3.2")
 
 }
