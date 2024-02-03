@@ -6,7 +6,6 @@ import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.async
 import kotlinx.coroutines.launch
 import uz.turgunboyevjurabek.cats.madels.GetAllProductItem
-import uz.turgunboyevjurabek.cats.madels.GetImageResponse
 import uz.turgunboyevjurabek.cats.network.ApiClient
 import uz.turgunboyevjurabek.cats.utils.Resource
 

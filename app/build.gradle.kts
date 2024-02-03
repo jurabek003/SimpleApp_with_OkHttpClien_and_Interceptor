@@ -75,6 +75,9 @@ dependencies {
      * ViewModel
      */
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
+    /**
+     * LoggingInterceptor
+     */
     implementation("com.squareup.okhttp3:logging-interceptor:5.0.0-alpha.2")
     /**
      * Glide and Picasso for image loading
